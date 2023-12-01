@@ -16,7 +16,7 @@
     "mkdirp": "^3.0.1",
     "prettyjson": "^1.2.5",
     "req-from": "^3.0.0",
-    "umzug": "^3.5.0"
+    "umzug": "^3.4.0"
   },
   "peerDependencies": {
     "knex": "*"
